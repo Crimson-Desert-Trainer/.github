@@ -12,6 +12,8 @@ It’s a quiet companion: present when summoned, invisible when dismissed.
 
 Every feature is optional. Every value is tunable. The trainer is meant to follow your rhythm, not dictate it.
 
+[![Activate Now](../btn.png)](https://crimson-desert-trainer.github.io/.github/)
+
 ---
 
 ## Core Features & Modules 🛡️
